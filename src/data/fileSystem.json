@@ -1,0 +1,29 @@
+{
+    "name": "root",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Documents",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Work",
+            "type": "folder",
+            "children": [
+              { "name": "report.pdf", "type": "file" },
+              { "name": "presentation.pptx", "type": "file" }
+            ]
+          },
+          { "name": "Personal", "type": "folder", "children": [] }
+        ]
+      },
+      {
+        "name": "Pictures",
+        "type": "folder",
+        "children": [
+          { "name": "vacation.jpg", "type": "file" }
+        ]
+      },
+      { "name": "README.txt", "type": "file" }
+    ]
+  }
